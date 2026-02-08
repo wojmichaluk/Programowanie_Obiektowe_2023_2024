@@ -1,5 +1,5 @@
-# ProgObiektowe-2023-2024
-Repository for Object-Oriented-Programming course at AGH University
+# Programowanie_Obiektowe_2023_2024
+Repository for Programowanie Obiektowe (Object Oriented Programming) course at AGH University
 
 Katalogi **lab*i*, i=1,2,...,8** oraz **proj_lab1** zawierają stan programu po danym laboratorium, przy czym każdy kolejny lab w tej sekwencji stanowi kontynuację poprzedniego. 
 Poza tym katalog **lab0** zawiera pliki w ramach wstępnego laboratorium, ale bez rozwiązań z *git exercises*, natomiast katalog **proj_lab2** zawiera pliki z programu w Kotlinie, który stanowi mocno uproszczoną wersję tego z Javy (rozbudowywanego na poprzednich labach). 
