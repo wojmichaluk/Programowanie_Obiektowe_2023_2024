@@ -1,5 +1,5 @@
 # Programowanie_Obiektowe_2023_2024
-Repository for Programowanie Obiektowe (Object Oriented Programming) course at AGH University
+### Repository for Programowanie Obiektowe (Object Oriented Programming) course at AGH University
 
 Katalogi **lab*i*, i=1,2,...,8** oraz **proj_lab1** zawierają stan programu po danym laboratorium, przy czym każdy kolejny lab w tej sekwencji stanowi kontynuację poprzedniego. 
 Poza tym katalog **lab0** zawiera pliki w ramach wstępnego laboratorium, ale bez rozwiązań z *git exercises*, natomiast katalog **proj_lab2** zawiera pliki z programu w Kotlinie, który stanowi mocno uproszczoną wersję tego z Javy (rozbudowywanego na poprzednich labach). 
@@ -20,4 +20,4 @@ Reszta labów była oceniona na 4/4 punkty.
 Projekt z tego przedmiotu ma poświęcone oddzielne repozytorium, bardziej szczegółowe informacje o projekcie [tutaj](https://github.com/wojmichaluk/ProgObiektowe-Project-2023-2024).
 
 Starałem się, żeby kod był dobrej jakości, ale zapewne mogą być jakieś inne błędy, niedociągnięcia, bo ocenianie i tak było dość łagodne.
-Przede wszystkim jednak mam nadzieję, że przedstawiona tu zawartość okaże się **przydatna**. Korzystajcie rozważnie!
+Przede wszystkim jednak mam nadzieję, że przedstawiona tu zawartość okaże się przydatna. Korzystajcie rozważnie!
